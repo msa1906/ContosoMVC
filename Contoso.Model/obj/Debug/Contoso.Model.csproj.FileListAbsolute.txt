@@ -1,0 +1,7 @@
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\bin\Debug\Contoso.Model.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\bin\Debug\Contoso.Model.pdb
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\obj\Debug\Contoso.Model.csprojResolveAssemblyReference.cache
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\obj\Debug\Contoso.Model.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\obj\Debug\Contoso.Model.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\obj\Debug\Contoso.Model.pdb
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Model\bin\Debug\Contoso.Model.dll.config

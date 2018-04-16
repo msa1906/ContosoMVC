@@ -1,0 +1,17 @@
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Data.dll.config
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Data.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Data.pdb
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Model.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\EntityFramework.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Model.pdb
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\EntityFramework.xml
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.csprojResolveAssemblyReference.cache
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.csproj.CoreCompileInputs.cache
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.csproj.CopyComplete
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.dll
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.pdb
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\bin\Debug\Contoso.Model.dll.config
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.Migrations.init.resources
+C:\Users\Logan\source\repos\code\mvc\ContosoMVC\Contoso.Data\obj\Debug\Contoso.Data.csproj.GenerateResource.cache
